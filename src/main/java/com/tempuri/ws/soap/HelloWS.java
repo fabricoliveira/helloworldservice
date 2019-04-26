@@ -8,6 +8,6 @@ public class HelloWS {
 
 	@WebMethod
 	public String hello() {
-		return "Hello";
+		return "hello";
 	}
 }
